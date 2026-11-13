@@ -40,13 +40,16 @@
 
 **Core skills:** Data cleaning · Exploratory data analysis (EDA) · KPI tracking · Dashboarding · Data storytelling
 
+<!-- Delete any badge for a tool you haven't actually used. -->
+
 ---
 
 ### 🌟 Featured Projects
 
 | Project | Key insight / outcome | Tools |
 |---|---|---|
-| *Coming soon* | | |
+| **[BrewBean Coffee Analytics](https://github.com/SakshiInnovates20/brewbean-coffee-analytics)** | End-to-end sales & marketing analytics for a 6-branch coffee chain: KPI dashboard, branch/product profitability and campaign ROI | Python, SQL, MySQL, Flask, Chart.js |
+| **[Coffee Shop Sales Analysis](https://github.com/SakshiInnovates20/coffee-shop-sales-project)** | Interactive Power BI dashboard on coffee shop sales, with data cleaning and EDA in Python | Python, Pandas, Jupyter, Power BI |
 
 ---
 
